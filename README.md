@@ -16,3 +16,6 @@ start build\release\
 ```
 
 and then double click 'xess_demo.exe'
+
+MIT License
+Copyright Intel(R) 2023-2025
